@@ -1,0 +1,6 @@
+{
+  "name": "Shirsekar's Fitness Hub — Bandra East Gym & Fitness Center",
+  "description": "Train smarter and build your strongest self at Shirsekar's Fitness Hub, managed by Fit Mantras in Bandra East, Mumbai. Strength training, cardio, personal training, and flexible memberships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
